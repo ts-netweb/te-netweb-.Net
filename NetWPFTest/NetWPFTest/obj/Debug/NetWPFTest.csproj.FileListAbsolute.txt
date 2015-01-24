@@ -1,0 +1,13 @@
+C:\Git\NetWPFTest\NetWPFTest\bin\Debug\NetWPFTest.exe.config
+C:\Git\NetWPFTest\NetWPFTest\bin\Debug\NetWPFTest.exe
+C:\Git\NetWPFTest\NetWPFTest\bin\Debug\NetWPFTest.pdb
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.csprojResolveAssemblyReference.cache
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\MainWindow.baml
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\MainWindow.g.cs
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\App.g.cs
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest_MarkupCompile.cache
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.g.resources
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.Properties.Resources.resources
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.csproj.GenerateResource.Cache
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.exe
+C:\Git\NetWPFTest\NetWPFTest\obj\Debug\NetWPFTest.pdb
